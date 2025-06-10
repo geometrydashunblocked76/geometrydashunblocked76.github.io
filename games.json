@@ -1,132 +1,62 @@
 [
     {
-        "name": "Seek & Find",
-        "slug": "seek-find",
-        "image": "\/data\/image\/game\/seek-find.jpg"
+        "name": "Egg Adventure 2",
+        "slug": "egg-adventure-2",
+        "image": "/cache/data/image/game/egg-adventure-2/egg-adventure-2-m186x186.webp"
     },
     {
-        "name": "Portals",
-        "slug": "portals",
-        "image": "\/data\/image\/game\/portals.jpg"
+        "name": "Zig Snake",
+        "slug": "zig-snake",
+        "image": "/cache/data/image/game/zig-snake/zig-snake-m186x186.webp"
     },
     {
-        "name": "Fast Lap",
-        "slug": "fast-lap",
-        "image": "\/data\/image\/game\/fast-lap.jpg"
+        "name": "Zen Master - 3 tiles",
+        "slug": "zen-master-3-tiles",
+        "image": "/cache/data/image/game/zen-master-3-tiles/zen-master-3-tiles-m186x186.webp"
     },
     {
-        "name": "Robot Transform Race",
-        "slug": "robot-transform-race",
-        "image": "\/data\/image\/game\/robot-transform-race.jpg"
+        "name": "Lollipop Stack Run",
+        "slug": "lollipop-stack-run",
+        "image": "/cache/data/image/game/lollipop-stack-run/lollipop-stack-run-m186x186.webp"
     },
     {
-        "name": "Girls Fun Nail Salon",
-        "slug": "girls-fun-nail-salon",
-        "image": "\/data\/image\/game\/girls-fun-nail-salon.jpg"
+        "name": "Physics Balls",
+        "slug": "physics-balls",
+        "image": "/cache/data/image/game/physics-balls/physics-balls-m186x186.webp"
     },
     {
-        "name": "Mega Prize Scratch",
-        "slug": "mega-prize-scratch",
-        "image": "\/data\/image\/game\/mega-prize-scratch.jpg"
+        "name": "Weapons and Ragdolls",
+        "slug": "weapons-and-ragdolls",
+        "image": "/cache/data/image/game/weapons-and-ragdolls/weapons-and-ragdolls-m186x186.webp"
     },
     {
-        "name": "Trial Xtreme",
-        "slug": "trial-xtreme",
-        "image": "\/data\/image\/game\/trial-xtreme.jpg"
+        "name": "Arcade Rope",
+        "slug": "arcade-rope",
+        "image": "/cache/data/image/game/arcade-rope/arcade-rope-m186x186.webp"
     },
     {
-        "name": "Timberland Arrange Puzzle Game",
-        "slug": "timberland-arrange-puzzle-game",
-        "image": "\/data\/image\/game\/timberland-arrange-puzzle-game.jpg"
+        "name": "Pizza Tycoon",
+        "slug": "pizza-tycoon",
+        "image": "/cache/data/image/game/pizza-tycoon/pizza-tycoon-m186x186.webp"
     },
     {
-        "name": "Pull The Thread - Puzzle",
-        "slug": "pull-the-thread-puzzle",
-        "image": "\/data\/image\/game\/pull-the-thread-puzzle.jpg"
+        "name": "Doge's Battle Royale",
+        "slug": "doges-battle-royale",
+        "image": "/cache/data/image/game/doges-battle-royale/doges-battle-royale-m186x186.webp"
     },
     {
-        "name": "Super Bitcoin Boy",
-        "slug": "super-bitcoin-boy",
-        "image": "\/data\/image\/game\/super-bitcoin-boy.jpg"
+        "name": "Brick Match",
+        "slug": "brick-match",
+        "image": "/cache/data/image/game/brick-match/brick-match-m186x186.webp"
     },
     {
-        "name": "Idle Drive: Merge, Upgrade, Drive",
-        "slug": "idle-drive-merge-upgrade-drive",
-        "image": "\/data\/image\/game\/idle-drive-merge-upgrade-drive.jpg"
+        "name": "One Line",
+        "slug": "one-line",
+        "image": "/cache/data/image/game/one-line/one-line-m186x186.webp"
     },
     {
-        "name": "Mineblock Obby",
-        "slug": "mineblock-obby",
-        "image": "\/data\/image\/game\/mineblock-obby.jpg"
-    },
-    {
-        "name": "Paperly - Paper Plane Adventure",
-        "slug": "paperly-paper-plane-adventure",
-        "image": "\/data\/image\/game\/paperly-paper-plane-adventure.jpg"
-    },
-    {
-        "name": "Reversi",
-        "slug": "reversi",
-        "image": "\/data\/image\/game\/reversi.jpg"
-    },
-    {
-        "name": "Hidden Kitty",
-        "slug": "hidden-kitty",
-        "image": "\/data\/image\/game\/hidden-kitty.jpg"
-    },
-    {
-        "name": "My Parking Lot",
-        "slug": "my-parking-lot",
-        "image": "\/data\/image\/game\/my-parking-lot.jpg"
-    },
-    {
-        "name": "Plug Man Race",
-        "slug": "plug-man-race",
-        "image": "\/data\/image\/game\/plug-man-race.jpg"
-    },
-    {
-        "name": "Jewel Garden Story",
-        "slug": "jewel-garden-story",
-        "image": "\/data\/image\/game\/jewel-garden-story.jpg"
-    },
-    {
-        "name": "MineTap Merge Clicker",
-        "slug": "minetap-merge-clicker",
-        "image": "\/data\/image\/game\/minetap-merge-clicker.jpg"
-    },
-    {
-        "name": "Crazy Motorcycle",
-        "slug": "crazy-motorcycle",
-        "image": "\/data\/image\/game\/crazy-motorcycle.jpg"
-    },
-    {
-        "name": "Idle Airport CEO",
-        "slug": "idle-airport-ceo",
-        "image": "\/data\/image\/game\/idle-airport-ceo.jpg"
-    },
-    {
-        "name": "Truck Simulator: Russia",
-        "slug": "truck-simulator-russia",
-        "image": "\/data\/image\/game\/truck-simulator-russia.jpeg"
-    },
-    {
-        "name": "Academy Assault",
-        "slug": "academy-assault",
-        "image": "\/data\/image\/game\/academy-assault.jpg"
-    },
-    {
-        "name": "Eye Art Perfect Makeup Artist",
-        "slug": "eye-art-perfect-makeup-artist",
-        "image": "\/data\/image\/game\/eye-art-perfect-makeup-artist.jpg"
-    },
-    {
-        "name": "Ocean Kids Back To School",
-        "slug": "ocean-kids-back-to-school",
-        "image": "\/data\/image\/game\/ocean-kids-back-to-school.jpeg"
-    },
-    {
-        "name": "Sandstorm Covert Ops",
-        "slug": "sandstorm-covert-ops",
-        "image": "\/data\/image\/game\/sandstorm-covert-ops.jpg"
+        "name": "Draw Weapon Fight Party",
+        "slug": "draw-weapon-fight-party",
+        "image": "/cache/data/image/game/draw-weapon-fight-party/draw-weapon-fight-party-m186x186.webp"
     }
 ]
